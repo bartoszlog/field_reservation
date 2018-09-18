@@ -14,7 +14,7 @@ const Field = props => {
         <div className="card-body">
           <h1>Nazwa: {props.name}</h1>
         </div>
-        <Link to={`field/${props.id}`}>Detale</Link>
+        <Link to={`fields/${props.id}`}>Detale</Link>
       </div>
     </div>
   );
