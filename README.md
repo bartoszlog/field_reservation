@@ -12,11 +12,12 @@ Things you may want to cover:
 * React version
  16.5.0
  
- =Run rails server
+Run rails server
   * postgres db
   * bundle
   * seed
   * rails s -p 3001
- =Change directory to react-client
+
+Change directory to react-client
   * npm install
   * npm start
